@@ -1,4 +1,4 @@
-// Usa o valo original para fazer um novo array
+// Usa o valor original para fazer um novo array
 
 // Dobre os números
 /*
